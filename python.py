@@ -7,4 +7,5 @@ elif score >= 80:
     print("Grade: B")
 else:
     print("Grade: C")
+print("This is changes made in github repo")
 
